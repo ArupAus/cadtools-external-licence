@@ -17,7 +17,7 @@ The SOFTWARE PRODUCT is protected by copyright laws and international copyright 
 - "PROJECT" shall mean :question:.
 - "ALLIANCE" shall mean :question:.
 
-***:exclamation: We need to have clearly definied entity names :exclamation:***
+***:collision: We need to have clearly definied entity names :collision:***
 
 ### 3. GRANT OF LICENCE
 
@@ -25,12 +25,12 @@ This EULA grants you the following rights:
 
 -	**Distribution:** You may freely distribute the installable software in the form provided by Oasys Ltd, and install it on any device, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device ("DEVICE") for which it is designed to operate.
 
-***:exclamation: Can we limit installation within project? And how? :exclamation:***
+***:collision: Can we limit installation within project? And how? :collision:***
 
 -	**Limitations on distribution:** You may not distribute the installed SOFTWARE PRODUCT or any components of it.
 -	**Limitations on use:** You may only use the SOFTWARE PRODUCT for demonstration, test, or evaluation purposes and you may not resell, or otherwise transfer for value, the SOFTWARE PRODUCT or any part of it.
 
-***:exclamation: Can we limit use on delivering project work only? :exclamation:***
+***:collision: Can we limit use on delivering project work only? :collision:***
 
 -	**Limitations on Reverse Engineering, Decompilation, and Disassembly:** You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
 -	**Separation of Components:** The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated. 
@@ -39,27 +39,29 @@ This EULA grants you the following rights:
 -	**Registration:** You may be required to register your copy of the SOFTWARE PRODUCT to install it. This registration obligation is further described in the SOFTWARE PRODUCT documentation or on the SOFTWARE PRODUCT'S web site.
 -	**Reservation of Rights:**  All rights not expressly granted are reserved by Oasys Ltd.
 
-***:exclamation: Where and how do we elaborate time bomb? And users shouldn't continue to use it after project is ended or suspended. :exclamation:***
+***:collision: Where and how do we elaborate time bomb? And users shouldn't continue to use it after project is ended or suspended. :collision:***
 
 ### 4. USE OF THE SOFTWARE
 
-1.1 You may install the Software on one or more hard disks or other storage devices, and make available the Software on a network file server for the purpose of installation onto hard disks or other storage devices within your organisation for use of the Software over such network and make backup copies of the Software. 
-1.2 Any serial number allocated to you either via an Oasys web site or by postage of media from Oasys is exclusive to you and your organisation and is non-transferable. You may not disclose this serial number to any third party.
+4.1 You may install the SOFTWARE PRODUCT on one or more hard disks or other storage devices, and make available the SOFTWARE PRODUCT on a network file server for the purpose of installation onto hard disks or other storage devices within your organisation for use of the SOFTWARE PRODUCT over such network and make backup copies of the SOFTWARE PRODUCT.
 
-1.3 You may use the Software exclusively either for your own personal use, or the internal business use of your organisation.
+4.2 Any serial number allocated to you either via an Oasys web site or by postage of media from Oasys is exclusive to you and your organisation and is non-transferable. You may not disclose this serial number to any third party.
 
-1.4 You may freely distribute the installable Software, in the form provided by Oasys, to any third party, and may install it on any device, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device for which it is designed to operate.
+***:collision: Should it be called serial number or licence key? Would we need this in the future? :collision:***
 
-#### 4.1 Location
-This software is strictly for use by licenced users working on the PROJECT only. Installation and use of the software or any of its components by others is strictly prohibited. The software and its components may be freely copied in ARUP offices but, with the exception of use by ARUP STAFF on home computers for the purpose on conducting ARUP business, may not be distributed outside of ARUP.
+4.3 You may use the SOFTWARE PRODUCT exclusively either for your own personal use, or the internal business use of your organisation.
+
+***:collision: Again, can we limit use on delivering project work only? :collision:***
 
 ### 5. COPYRIGHT AND PROPRIETARY RIGHT
 
-All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by Oasys Ltd or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This ECLA grants you no rights to use such content. If this SOFTWARE PRODUCT contains documentation which is provided only in electronic form, you may print one copy of such electronic documentation. 
+***:collision: Are the clauses in this section sufficient for background IP projection? We have to make sure IP is detached from the PROJECT. :collision:***
 
-2.1 The Software, all intellectual and proprietary rights in the Software, its structure, organisation and code are the valuable trade secrets and property of Oasys or third party proprietors. The Software is protected by copyright law. Except as stated in paragraph 1 above, this Agreement does not grant you any intellectual property or other proprietary rights in the Software. Oasys retains at all times title to the Software and all rights therein. All rights not specifically granted in this Licence are reserved by Oasys.
+5.1 All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by Oasys Ltd or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. If this SOFTWARE PRODUCT contains documentation which is provided only in electronic form, you may print one copy of such electronic documentation. 
 
-2.2 Trademarks.  This licence does not grant you any rights in connection with any trademarks or service marks of Oasys or Arup Group Ltd.
+5.2 The SOFTWARE PRODUCT, all intellectual and proprietary rights in the SOFTWARE PRODUCT, its structure, organisation and code are the valuable trade secrets and property of Oasys or third party proprietors. The SOFTWARE PRODUCT is protected by copyright law. This EULA does not grant you any intellectual property or other proprietary rights in the SOFTWARE PRODUCT. Oasys retains at all times title to the SOFTWARE PRODUCT and all rights therein. All rights not specifically granted in this EULA are reserved by Oasys.
+
+5.3 Trademarks. This EULA does not grant you any rights in connection with any trademarks or service marks of Oasys or Arup Group Ltd.
 
 ### 6. RESTRICTIONS
 
