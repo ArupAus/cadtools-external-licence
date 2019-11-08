@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## ARUP OASYS SOFTWARE LICENSE AGREEMENT
 
-You can use the [editor on GitHub](https://github.com/ArupAus/cadtools-external-licence/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+IMPORTANT-READ CAREFULLY: This Oasys Ltd Evaluation Copy Licence Agreement ("ECLA") is a legal agreement between you (either an individual or a single entity) and Oasys Ltd for this Oasys Ltd software product, which includes the computer software with which this licence agreement is provided, and includes associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Oasys Ltd. Any software provided along with the SOFTWARE PRODUCT that is associated with a separate licence agreement is licensed to you under the terms of that licence agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this ECLA. If you do not agree to the terms of this ECLA, do not install or use the SOFTWARE PRODUCT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. DEFINITONS
 
-### Markdown
+### 2. GRANT OF LICENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. USE OF THE SOFTWARE
 
-```markdown
-Syntax highlighted code block
+### 4. COPYRIGHT AND PROPRIETARY RIGHT
 
-# Header 1
-## Header 2
-### Header 3
+### 5. RESTRICTIONS
 
-- Bulleted
-- List
+### 6. EXCLUSION OF LIABILITY AND DISCLAIMER OF WARRANTIES
 
-1. Numbered
-2. List
+### 7. GOVERNING LAW AND GENERAL PROVISIONS
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArupAus/cadtools-external-licence/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
