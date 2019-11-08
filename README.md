@@ -1,6 +1,6 @@
 ## ARUP OASYS CADTOOLS SOFTWARE LICENSE AGREEMENT
 
-IMPORTANT-READ CAREFULLY: This Oasys Ltd End User Licence Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Oasys Ltd for this Oasys Ltd software product, which includes the computer software with which this licence agreement is provided, and includes associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Oasys Ltd. Any software provided along with the SOFTWARE PRODUCT that is associated with a separate licence agreement is licensed to you under the terms of that licence agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+IMPORTANT-READ CAREFULLY: This Oasys Ltd End User Licence Agreement (**"EULA"**) is a legal agreement between you (either an individual or a single entity) and Oasys Ltd for this Oasys Ltd software product, which includes the computer software with which this licence agreement is provided, and includes associated media, printed materials, and "online" or electronic documentation (**"SOFTWARE PRODUCT"**). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Oasys Ltd. Any software provided along with the SOFTWARE PRODUCT that is associated with a separate licence agreement is licensed to you under the terms of that licence agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
 
 ### 1. SOFTWARE PRODUCT LICENCE
 
@@ -10,12 +10,13 @@ The SOFTWARE PRODUCT is protected by copyright laws and international copyright 
 
 ### 2. DEFINITONS
 
-- "ARUP" shall mean Arup Group Ltd and its subsidiaries.
-- "OASYS" shall mean Oasys Ltd.
-- "SOFTWARE PRODUCT" shall mean the computer software with which this licence agreement is provided and includes associated media, printed materials, and "online" or electronic documentation.
-- "CADTOOLS" shall mean :question:.
-- "PROJECT" shall mean :question:.
-- "ALLIANCE" shall mean :question:.
+- **"ARUP"** shall mean Arup Group Ltd and its subsidiaries.
+- **"OASYS"** shall mean Oasys Ltd.
+- **"SOFTWARE PRODUCT"** shall mean the computer software with which this licence agreement is provided and includes associated media, printed materials, and "online" or electronic documentation.
+- **"CADTOOLS"** shall mean :question:.
+- **"CADTOOLS PLATFORM"** shall mean :question:.
+- **"PROJECT"** shall mean :question:.
+- **"ALLIANCE"** shall mean :question:.
 
 ***:collision: We need to have clearly definied entity names :collision:***
 
@@ -65,54 +66,48 @@ This EULA grants you the following rights:
 
 ### 6. RESTRICTIONS
 
-3.1 You agree not to rent, lease, sub-license, sell for profit, modify, adapt, translate, or to reverse engineer, decompile, or disassemble the Software except to the extent permitted by law, or create derivative works from the Software or to otherwise attempt to discover the source code of the Software. 
+***:collision: Should we limit users to NOT developing their own tools and deploy into Labs? :collision:***
 
-3.2 You understand and acknowledge that this Agreement prohibits the copying and distribution of the Software or any of the components (.dlls or other files) that make up the Software outside of your organisation unless you are expressly licensed to do so by Oasys. This prohibition includes but is not limited to, software bundling, distribution via the Internet, emailing as an attachment and via hardware media such as CD's.   However you may copy and distribute the Software to third parties strictly on the basis that; (a) no charge is payable to you from any such third party in respect of such copying and distribution; (b) any such third party is made aware of the terms of this licence; (c) you indemnify Oasys in respect of any breach of their licence by such third party.
+6.1 You agree not to rent, lease, sub-license, sell for profit, modify, adapt, translate, or to reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT except to the extent permitted by law, or create derivative works from the SOFTWARE PRODUCT or to otherwise attempt to discover the source code of the SOFTWARE PRODUCT. 
 
-3.3 You agree not to incorporate the Software into any other software which you may sell or distribute, whether or not for your own or any commercial gain. You further agree not to use the Software (or supply the Software for use) in any service provided for any third party for payment or reward. If you breach your agreement in this paragraph you agree to account to Oasys for any payment or reward made by you pursuant to any such arrangement.
+6.2 You understand and acknowledge that this EULA prohibits the copying and distribution of the SOFTWARE PRODUCT or any of the components (.dlls or other files) that make up the SOFTWARE PRODUCT outside of your organisation unless you are expressly licensed to do so by Oasys. This prohibition includes but is not limited to, software bundling, distribution via the Internet, emailing as an attachment and via hardware media such as CD's.
 
-3.4 You agree not to provide any support services to any third party (whether telephone or internet support services or otherwise) in relation to the Software without Oasys' prior written agreement.
+6.3 You agree not to incorporate the SOFTWARE PRODUCT into any other software which you may sell or distribute, whether or not for your own or any commercial gain. You further agree not to use the SOFTWARE PRODUCT (or supply the SOFTWARE PRODUCT for use) in any service provided for any third party for payment or reward. If you breach your agreement in this paragraph you agree to account to Oasys for any payment or reward made by you pursuant to any such arrangement.
+
+6.4 You agree not to provide any support services to any third party (whether telephone or internet support services or otherwise) in relation to the SOFTWARE PRODUCT without Oasys' prior written agreement.
 
 ### 7. EXCLUSION OF LIABILITY AND DISCLAIMER OF WARRANTIES
 
-The App is made available by Arup to the user free of charge on the basis that no representations or warranties express or implied are made regarding its performance, the accuracy or completeness of the model or the data and/or information contained therein or the output.  No reliance shall be placed upon the output of the app. The user must make their own investigations and assessments as required to satisfy themselves as to the adequacy or otherwise of the model contained in the App and the user assumes full responsibility for any loss resulting from use (or misuse) of the App. User hereby indemnifies Arup in respect of any loss or damage incurred in its use of the App.
+The SOFTWARE PRODUCT is provided free of charge. Accordingly you agree that Oasys would not be able to provide the SOFTWARE PRODUCT on an economic basis without the exclusions of liability and disclaimers of warranty set out in this paragraph which represent the basis of the agreement between you and Oasys. You further agree that:
 
-THE APP, AND ANY SERVICES PERFORMED OR PROVIDED BY THE APP, IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ARUP DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE, QUALITY, AND NONINFRINGEMENT. ARUP EXPRESSLY DISCLAIMS ANY WARRANTIES OF ANY KIND WITH RESPECT TO THE ACCURACY, VALIDITY, OR COMPLETENESS OF ANY INFORMATION OR FEATURES AVAILABLE THROUGH THE SERVICE, OR THE QUALITY OR CONSISTENCY OF THE SERVICE.
+7.1. You acknowledge and agree that SOFTWARE PRODUCT is not error or bug free and that it is your sole responsibility to determine the SOFTWARE PRODUCT's suitability, technical or otherwise, for the use to which you intend to put the SOFTWARE PRODUCT and that your use of the SOFTWARE PRODUCT is at your own discretion and risk and that you will be solely responsible for any damage to your computer, computer system, network or other item of technical infrastructure.
 
-The Software is provided free of charge. Accordingly you agree that Oasys would not be able to provide the Software on an economic basis without the exclusions of liability and disclaimers of warranty set out in this paragraph which represent the basis of the agreement between you and Oasys. You further agree that:- 
+7.2 Oasys and its suppliers do not and cannot warrant the performance, consequences or results you may obtain by using the SOFTWARE PRODUCT. Oasys and its suppliers expressly disclaim and exclude all warranties and conditions of any kind whether express or implied by statute common law or otherwise and make no warranties or conditions, express or implied, including without limitation as to  satisfactory quality, merchantability, or fitness for any particular purpose of the SOFTWARE PRODUCT. 
 
-4.1. You acknowledge and agree that software is not error or bug free and that it is your sole responsibility to determine the Software's suitability, technical or otherwise, for the use to which you intend to put the Software and that your use of the Software is at your own discretion and risk and that you will be solely responsible for any damage to your computer, computer system, network or other item of technical infrastructure.
+7.3 In no event will Oasys or its suppliers be liable for any loss or damage in connection with use of the SOFTWARE PRODUCT, whether direct or consequential, incidental or special damage, including loss of data, loss (or deferment of) profits, loss (or deferment of) savings, or loss of time. This clause applies even if an Oasys representative has been advised of the possibility of such damages, or of any claim by any third party.
 
-4.2 Oasys and its suppliers do not and cannot warrant the performance, consequences or results you may obtain by using the Software. Oasys and its suppliers expressly disclaim and exclude all warranties and conditions of any kind whether express or implied by statute common law or otherwise and make no warranties or conditions, express or implied, including without limitation as to  satisfactory quality, merchantability, or fitness for any particular purpose of the Software. 
+7.4 The SOFTWARE PRODUCT and any associated components are tools intended to be used by trained professionals only. They are not substitutes for your professional judgment or for training. The SOFTWARE PRODUCT has not been tested in all situations under which it may be used. Oasys shall not be liable in any manner whatsoever for the results obtained through the use of the Software. Users of the SOFTWARE PRODUCT are responsible for the supervision, management and control of the SOFTWARE PRODUCT. This responsibility includes, but is not limited to, the determination of appropriate uses for the SOFTWARE PRODUCT and the selection of the SOFTWARE PRODUCT and other programs to achieve intended results. Users of the SOFTWARE PRODUCT are also responsible for establishing the adequacy of independent procedures for testing the reliability and accuracy of any program output.
 
-4.3 In no event will Oasys or its suppliers be liable for any loss or damage in connection with use of the Software, whether direct or consequential, incidental or special damage, including loss of data, loss (or deferment of) profits, loss (or deferment of) savings, or loss of time. This clause applies even if an Oasys representative has been advised of the possibility of such damages, or of any claim by any third party.
+7.5	To the maximum extent permitted by applicable law, in no event shall Oasys or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the SOFTWARE PRODUCT or the provision of or failure to provide support services, even if Oasys has been advised of the possibility of such damages.
 
-4.4 The Software and any associated components are tools intended to be used by trained professionals only. They are not substitutes for your professional judgment or for training. The Software has not been tested in all situations under which it may be used. Oasys shall not be liable in any manner whatsoever for the results obtained through the use of the Software. Users of the Software are responsible for the supervision, management and control of the Software. This responsibility includes, but is not limited to, the determination of appropriate uses for the Software and the selection of the Software and other programs to achieve intended results. Users of the Software are also responsible for establishing the adequacy of independent procedures for testing the reliability and accuracy of any program output.
+7.6	Notwithstanding any other term of this EULA Oasys' liability under or in connection with this EULA shall be limited to the sum charged by Oasys in respect of the provision of the SOFTWARE PRODUCT.
 
-5.1	TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL OASYS LTD OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF OASYS LTD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
-
-5.2	NOTWITHSTANDING ANY OTHER TERM OF THIS AGREEMENT OASYS LTD’S LIABILITY UNDER OR IN CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO THE SUM CHARGED BY OASYS LTD IN RESPECT OF THE PROVISION OF THE SOFTWARE PRODUCT.
+***:collision: Not sure if we need 7.6 :collision:***
 
 ### 8. GOVERNING LAW AND GENERAL PROVISIONS
 
-Unless otherwise agreed in writing between the parties, this Agreement shall be subject to and construed and interpreted in accordance with English Law and shall be subject to the jurisdiction of the Courts of England, to the non-exclusive jurisdiction of which the Licensee shall be deemed to have submitted.
+8.1 This EULA represents the entire and only agreement between Oasys and you in relation to the SOFTWARE PRODUCT and all other agreements, representations or warranties unless fraudulent are excluded. 
 
-5.1 This Agreement represents the entire and only agreement between Oasys and you in relation to the Software and all other agreements, representations or warranties unless fraudulent are excluded. 
+8.2 This EULA is subject to English Law and the exclusive jurisdiction of the courts of England and Wales. 
 
-5.2 This Agreement is subject to English Law and the exclusive jurisdiction of the courts of England and Wales. 
+8.3 If any part of this EULA is found void and unenforceable, it will not affect the validity of the remainder of the EULA, which shall remain valid and enforceable according to its terms. 
 
-5.3 If any part of this Agreement is found void and unenforceable, it will not affect the validity of the remainder of the Agreement, which shall remain valid and enforceable according to its terms. 
+8.4 Oasys is entitled to terminate forthwith this EULA upon any failure by you to comply with its terms. You shall cease your use of the SOFTWARE PRODUCT in such circumstances and delete or return (as appropriate) all copies in your possession of the SOFTWARE PRODUCT and confirm to Oasys in writing that you have done so.  
 
-5.4 Oasys is entitled to terminate forthwith this Agreement upon any failure by you to comply with its terms. You shall cease your use of the Software in such circumstances and delete or return (as appropriate) all copies in your possession of the Software and confirm to Oasys in writing that you have done so.  
-
-5.5 This Agreement may only be modified in writing signed by an authorised officer of Oasys.
+8.5 This EULA may only be modified in writing signed by an authorised officer of Oasys.
 
 ### 9. MODIFICATION AND TERMINATION
 
-#### 8.1 Modification
+9.1 Oasys reserves the right to modify and/or change any of the terms and conditions of this EULA at any time and without prior notice. If Oasys materially modifies this EULA it will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the SOFTWARE PRODUCT for the first time after such material changes are made. By continuing to use the SOFTWARE PRODUCT after Oasys has posted a modification of this EULA, you agree to be bound by the modified EULA. If the modified EULA is not acceptable to you, your only recourse is to discontinue the use of and uninstall the SOFTWARE PRODUCT. This EULA will also govern any software upgrades and/or updates provided by Oasys that upgrade and/or supplement the SOFTWARE PRODUCT, unless such upgrades and/or updates are accompanied by a separate license, in which case the terms of that separate license will apply.
 
-Arup reserves the right to modify and/or change any of the terms and conditions of this EULA at any time and without prior notice. If ARUP materially modifies this EULA it will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the App or the Service for the first time after such material changes are made. By continuing to use the App after Arup has posted a modification of this EULA, you agree to be bound by the modified EULA. If the modified EULA is not acceptable to you, your only recourse is to discontinue the use of and uninstall the App. This Agreement will also govern any software upgrades and/or updates provided by Arup that upgrade and/or supplement the App, unless such upgrades and/or updates are accompanied by a separate license, in which case the terms of that separate license will apply.
-
-#### 8.2 Term and Termination
-
-This EULA will remain in effect until terminated. The EULA, and your rights and licenses hereunder, will terminate immediately upon your breach of the EULA. You may terminate the EULA by uninstalling and discontinuing your use of the App. Arup may terminate support of the App and/or this EULA, or limit or terminate your access to the App at any time for any reason.
+9.2 This EULA will remain in effect until terminated. The EULA, and your rights and licenses hereunder, will terminate immediately upon your breach of the EULA. You may terminate the EULA by uninstalling and discontinuing your use of the SOFTWARE PRODUCT. Oasys may terminate support of the SOFTWARE PRODUCT and/or this EULA, or limit or terminate your access to the SOFTWARE PRODUCT at any time for any reason.
