@@ -1,36 +1,47 @@
 ## ARUP OASYS CADTOOLS SOFTWARE LICENSE AGREEMENT
 
-IMPORTANT-READ CAREFULLY: This Oasys Ltd Evaluation Copy Licence Agreement ("ECLA") is a legal agreement between you (either an individual or a single entity) and Oasys Ltd for this Oasys Ltd software product, which includes the computer software with which this licence agreement is provided, and includes associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Oasys Ltd. Any software provided along with the SOFTWARE PRODUCT that is associated with a separate licence agreement is licensed to you under the terms of that licence agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this ECLA. If you do not agree to the terms of this ECLA, do not install or use the SOFTWARE PRODUCT.
+IMPORTANT-READ CAREFULLY: This Oasys Ltd End User Licence Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Oasys Ltd for this Oasys Ltd software product, which includes the computer software with which this licence agreement is provided, and includes associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). The SOFTWARE PRODUCT also includes any updates and supplements to the original SOFTWARE PRODUCT provided to you by Oasys Ltd. Any software provided along with the SOFTWARE PRODUCT that is associated with a separate licence agreement is licensed to you under the terms of that licence agreement. By installing, copying, downloading, accessing or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
 
-OASYS LIMITED IS WILLING TO LICENSE THE ACCOMPANYING SOFTWARE TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS CONTAINED IN THIS LICENCE AGREEMENT AND ANY SUPPLEMENTARY OR UNIQUE LICENCE TERMS RELEVANT TO THIS PRODUCT. YOU ARE PROHIBITED FROM USING THE ACCOMPANYING SOFTWARE OTHER THAN IN ACCORDANCE WITH THESE LICENCE TERMS.
+### 1. SOFTWARE PRODUCT LICENCE
 
-SOFTWARE PRODUCT LICENCE
+Oasys Ltd is willing to license the accompanying software to you only upon the condition that you accept all of the terms contained in this licence agreement and any supplementary or unique licence terms relevant to this product. You are prohibited from using the accompanying software other than in accordance with these licence terms.
+
 The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
-### 1. DEFINITONS
+### 2. DEFINITONS
 
 - "ARUP" shall mean Arup Group Ltd and its subsidiaries.
-- "OASYS" shall mean
+- "OASYS" shall mean Oasys Ltd.
 - "SOFTWARE PRODUCT" shall mean the computer software with which this licence agreement is provided and includes associated media, printed materials, and "online" or electronic documentation.
-- "CADTOOLS" shall mean
-- "PROJECT" shall mean
-- "ALLIANCE" shall mean
+- "CADTOOLS" shall mean :question:.
+- "PROJECT" shall mean :question:.
+- "ALLIANCE" shall mean :question:.
 
-### 2. GRANT OF LICENCE
+***:exclamation: We need to have clearly definied entity names :exclamation:***
 
-This ECLA grants you the following rights:
+### 3. GRANT OF LICENCE
 
--	Distribution. You may freely distribute the installable software in the form provided by Oasys Ltd, and install it on any device, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device ("DEVICE") for which it is designed to operate.
--	Limitations on distribution. You may not distribute the installed SOFTWARE PRODUCT or any components of it.
--	Limitations on use. You may only use the SOFTWARE PRODUCT for demonstration, test, or evaluation purposes and you may not resell, or otherwise transfer for value, the SOFTWARE PRODUCT or any part of it.
--	Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
--	Separation of Components. The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated. 
--	Trademarks.  This ECLA does not grant you any rights in connection with any trademarks or service marks of Oasys Ltd.
--	Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT.
--	Registration. You may be required to register your copy of the SOFTWARE PRODUCT to install it. This registration obligation is further described in the SOFTWARE PRODUCT documentation or on the SOFTWARE PRODUCT'S web site.
--	Reservation of Rights.  All rights not expressly granted are reserved by Oasys Ltd.
+This EULA grants you the following rights:
 
-### 3. USE OF THE SOFTWARE
+-	**Distribution:** You may freely distribute the installable software in the form provided by Oasys Ltd, and install it on any device, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device ("DEVICE") for which it is designed to operate.
+
+***:exclamation: Can we limit installation within project? And how? :exclamation:***
+
+-	**Limitations on distribution:** You may not distribute the installed SOFTWARE PRODUCT or any components of it.
+-	**Limitations on use:** You may only use the SOFTWARE PRODUCT for demonstration, test, or evaluation purposes and you may not resell, or otherwise transfer for value, the SOFTWARE PRODUCT or any part of it.
+
+***:exclamation: Can we limit use on delivering project work only? :exclamation:***
+
+-	**Limitations on Reverse Engineering, Decompilation, and Disassembly:** You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+-	**Separation of Components:** The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated. 
+-	**Trademarks:**  This EULA does not grant you any rights in connection with any trademarks or service marks of Oasys Ltd.
+-	**Rental:** You may not rent, lease, or lend the SOFTWARE PRODUCT.
+-	**Registration:** You may be required to register your copy of the SOFTWARE PRODUCT to install it. This registration obligation is further described in the SOFTWARE PRODUCT documentation or on the SOFTWARE PRODUCT'S web site.
+-	**Reservation of Rights:**  All rights not expressly granted are reserved by Oasys Ltd.
+
+***:exclamation: Where and how do we elaborate time bomb? And users shouldn't continue to use it after project is ended or suspended. :exclamation:***
+
+### 4. USE OF THE SOFTWARE
 
 1.1 You may install the Software on one or more hard disks or other storage devices, and make available the Software on a network file server for the purpose of installation onto hard disks or other storage devices within your organisation for use of the Software over such network and make backup copies of the Software. 
 1.2 Any serial number allocated to you either via an Oasys web site or by postage of media from Oasys is exclusive to you and your organisation and is non-transferable. You may not disclose this serial number to any third party.
@@ -39,10 +50,10 @@ This ECLA grants you the following rights:
 
 1.4 You may freely distribute the installable Software, in the form provided by Oasys, to any third party, and may install it on any device, workstation, terminal, handheld PC, pager, "smart phone," or other digital electronic device for which it is designed to operate.
 
-#### 3.1 Location
+#### 4.1 Location
 This software is strictly for use by licenced users working on the PROJECT only. Installation and use of the software or any of its components by others is strictly prohibited. The software and its components may be freely copied in ARUP offices but, with the exception of use by ARUP STAFF on home computers for the purpose on conducting ARUP business, may not be distributed outside of ARUP.
 
-### 4. COPYRIGHT AND PROPRIETARY RIGHT
+### 5. COPYRIGHT AND PROPRIETARY RIGHT
 
 All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by Oasys Ltd or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This ECLA grants you no rights to use such content. If this SOFTWARE PRODUCT contains documentation which is provided only in electronic form, you may print one copy of such electronic documentation. 
 
@@ -50,7 +61,7 @@ All title and copyrights in and to the SOFTWARE PRODUCT (including but not limit
 
 2.2 Trademarks.  This licence does not grant you any rights in connection with any trademarks or service marks of Oasys or Arup Group Ltd.
 
-### 5. RESTRICTIONS
+### 6. RESTRICTIONS
 
 3.1 You agree not to rent, lease, sub-license, sell for profit, modify, adapt, translate, or to reverse engineer, decompile, or disassemble the Software except to the extent permitted by law, or create derivative works from the Software or to otherwise attempt to discover the source code of the Software. 
 
@@ -60,7 +71,7 @@ All title and copyrights in and to the SOFTWARE PRODUCT (including but not limit
 
 3.4 You agree not to provide any support services to any third party (whether telephone or internet support services or otherwise) in relation to the Software without Oasys' prior written agreement.
 
-### 6. EXCLUSION OF LIABILITY AND DISCLAIMER OF WARRANTIES
+### 7. EXCLUSION OF LIABILITY AND DISCLAIMER OF WARRANTIES
 
 The App is made available by Arup to the user free of charge on the basis that no representations or warranties express or implied are made regarding its performance, the accuracy or completeness of the model or the data and/or information contained therein or the output.  No reliance shall be placed upon the output of the app. The user must make their own investigations and assessments as required to satisfy themselves as to the adequacy or otherwise of the model contained in the App and the user assumes full responsibility for any loss resulting from use (or misuse) of the App. User hereby indemnifies Arup in respect of any loss or damage incurred in its use of the App.
 
@@ -80,7 +91,7 @@ The Software is provided free of charge. Accordingly you agree that Oasys would 
 
 5.2	NOTWITHSTANDING ANY OTHER TERM OF THIS AGREEMENT OASYS LTD’S LIABILITY UNDER OR IN CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO THE SUM CHARGED BY OASYS LTD IN RESPECT OF THE PROVISION OF THE SOFTWARE PRODUCT.
 
-### 7. GOVERNING LAW AND GENERAL PROVISIONS
+### 8. GOVERNING LAW AND GENERAL PROVISIONS
 
 Unless otherwise agreed in writing between the parties, this Agreement shall be subject to and construed and interpreted in accordance with English Law and shall be subject to the jurisdiction of the Courts of England, to the non-exclusive jurisdiction of which the Licensee shall be deemed to have submitted.
 
@@ -94,7 +105,7 @@ Unless otherwise agreed in writing between the parties, this Agreement shall be 
 
 5.5 This Agreement may only be modified in writing signed by an authorised officer of Oasys.
 
-### 8. MODIFICATION AND TERMINATION
+### 9. MODIFICATION AND TERMINATION
 
 #### 8.1 Modification
 
